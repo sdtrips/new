@@ -1,0 +1,4 @@
+# Requirements for Gradio UI — lightweight, no GPU dependencies
+gradio==5.*
+requests==2.32.*
+pillow==11.*
